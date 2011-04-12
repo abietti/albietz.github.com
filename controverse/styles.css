@@ -1,0 +1,86 @@
+
+body {
+	font-family: "Quattrocento", arial, sans-serif;
+}
+
+h1, h2 {
+	font-family: "Terminal Dosis Light", arial, sans-serif;
+	/*font-size: large;*/
+}
+
+a {
+	text-decoration: none;
+	color: #22f;
+	-webkit-transition: text-shadow .1s linear;
+	transition: text-shadow .1s linear;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #00f;
+	/*text-shadow: 1px 1px 2px #aaa;*/
+}
+
+p {
+	text-align: justify;
+}
+
+#header {
+	margin: 20px auto;
+	width: 930px;
+	text-align: center;
+	border-bottom: 1px solid #ccd;
+}
+
+#main {
+	margin: 0px auto;
+	width: 930px;
+}
+
+#sidebar {
+	/*font-family: "Ubuntu", arial, sans-serif;*/
+	font-size: 85%;
+	position: fixed;
+	top: 130px;
+	width: 150px;
+	float: left;
+	border: 2px solid #999;
+	padding: 0;
+}
+
+#sidebar ul {
+	list-style: none;
+	padding: 0 1em;
+}
+#sidebar li {
+	margin: 5px 0px;
+}
+
+#content {
+	/*width: 600px;*/
+	margin-left: 150px;
+	padding: 20px;
+}
+
+#footer {
+	border-top: 1px solid #ccc;
+	margin: 60px auto;
+	padding: 10px 0;
+	width: 930px;
+}
+
+#ouinon {
+	width: 100%;
+	float: left;
+	margin: 0 0 10px 0;
+	list-style: none;
+}
+
+#ouinon li {
+	float: left;
+	margin: 0 50px;
+}
+
+#intro, #cerveau {
+	border-bottom: 1px solid #ccc;
+}
