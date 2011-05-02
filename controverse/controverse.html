@@ -1,10 +1,10 @@
 <div id="sidebar">
 	<ul>
-		<li><a class="boxed" href="existence-ne.html">Existence de la Neuroéconomie</a></li>
-		<li><a class="boxed" href="apport-ne.html">Apport de la Neuroéconomie</a></li>
-		<li><a class="boxed" href="ethique.html">Problèmes éthiques</a></li>
-		<li><a class="boxed" href="neuromarketing.html">Neuromarketing</a></li>
-		<li><a class="boxed" href="protocole.html">Protocole expérimental</a></li>
+		<li><a id='link1' class="boxed" href="existence-ne.html">Existence de la Neuroéconomie</a></li>
+		<li><a id='link2' class="boxed" href="apport-ne.html">Apport de la Neuroéconomie</a></li>
+		<li><a id='link3' class="boxed" href="ethique.html">Problèmes éthiques</a></li>
+		<li><a id='link4' class="boxed" href="neuromarketing.html">Neuromarketing</a></li>
+		<li><a id='link5' class="boxed" href="protocole.html">Protocole expérimental</a></li>
 	</ul>
 	<ul>
 		<li><a href="javascript:ultimatum()">Jeu de l'ultimatum</a></li>
@@ -29,7 +29,21 @@
 </div>
 
 <div id="cerveau">
-	<p>Voici le cerveau</p>
+	<p>Passez votre souris sur les différentes parties du cerveau :</p>
+	<div id="brain">
+	<img id="brainimg" src="images/brain.png" usemap="#brainmap" />
+	<map name="brainmap" id="brainmap">
+		<!-- <area id="area1" shape="rect" coords="0,0,300,300" href="existence-ne.html" /> -->
+		<area id="area1" shape="poly" coords="72,204,32,193,5,141,13,84,57,43,113,15,110,63,112,94,125,152,90,173,73,186," href="" />
+		<area id="area2" shape="poly" coords="126,152,108,91,107,37,116,15,161,12,208,9,263,18,224,72,209,136," href="" />
+		<area id="area3" shape="poly" coords="262,21,239,47,225,66,216,137,263,149,382,138,356,87,319,44," href="" />
+		<area id="area4" shape="poly" coords="383,138,258,147,259,253,237,192,311,258,354,263,391,233,395,175," href="" />
+		<area id="area5" shape="poly" coords="260,253,238,192,256,150,216,136,168,152,114,155,72,194,87,236,151,258," href="" />
+	</map>
+	</div>
+	<div id="brainarea">
+		<p><br /></p>
+	</div>
 </div>
 
 <div id="concl">

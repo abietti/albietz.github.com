@@ -44,7 +44,7 @@ p {
 	top: 130px;
 	width: 150px;
 	float: left;
-	border: 2px solid #999;
+	border: 1px solid #999;
 	padding: 0;
 }
 
@@ -83,4 +83,16 @@ p {
 
 #intro, #cerveau {
 	border-bottom: 1px solid #ccc;
+}
+
+#brain {
+	text-align: center;
+}
+
+#brainarea p {
+	text-align: center;
+}
+
+.empha {
+	font-weight: bold;
 }
