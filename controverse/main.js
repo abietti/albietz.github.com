@@ -44,5 +44,5 @@ var controverse = function() {
 
 
 $(function() {
-	controverse();
+	ultimatum();
 });
