@@ -32,11 +32,11 @@ var controverse = function() {
 	$('#main').hide();
 	$('#main').load('controverse.html', function() {
 		$('.boxed').colorbox({width: "60%", height: "80%", close: "fermer"});
-		apply(1, 'images/brain.png', 'Existence de la Neuroéconomie');
-		apply(2, 'images/brain.png', 'Apport de la Neuroéconomie');
-		apply(3, 'images/brain.png', 'Problèmes éthiques');
-		apply(4, 'images/brain.png', 'Neuromarketing');
-		apply(5, 'images/brain.png', 'Protocole expérimental');
+		apply(1, 'images/brain.png', 'La neuroéconomie : simple label ou véritable dicipline ?');
+		apply(2, 'images/brain.png', 'Economie ou neurosciences : qui bénéficie vraiment de la neuroéconomie ?');
+		apply(3, 'images/brain.png', 'Nouveaux domaines de recherche donc nouveaux protocoles, expériences controversées ?');
+		apply(4, 'images/brain.png', 'Ethique');
+		apply(5, 'images/brain.png', 'Une application concrète ou une dérive de la neuroéconomie ?');
 	});
 	$('#main').fadeIn('slow');
 

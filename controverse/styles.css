@@ -81,7 +81,7 @@ p {
 	margin: 0 50px;
 }
 
-#intro, #cerveau {
+.bottomborder {
 	border-bottom: 1px solid #ccc;
 }
 
