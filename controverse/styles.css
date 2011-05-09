@@ -3,9 +3,13 @@ body {
 	font-family: "Quattrocento", arial, sans-serif;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: "Terminal Dosis Light", arial, sans-serif;
 	/*font-size: large;*/
+}
+
+blockquote {
+	font-style: italic;
 }
 
 a {
@@ -27,14 +31,14 @@ p {
 
 #header {
 	margin: 20px auto;
-	width: 930px;
+	width: 800px;
 	text-align: center;
 	border-bottom: 1px solid #ccd;
 }
 
 #main {
 	margin: 0px auto;
-	width: 930px;
+	width: 800px;
 }
 
 #sidebar {
@@ -66,7 +70,7 @@ p {
 	border-top: 1px solid #ccc;
 	margin: 60px auto;
 	padding: 10px 0;
-	width: 930px;
+	width: 800px;
 }
 
 #ouinon {
@@ -87,6 +91,10 @@ p {
 
 #brain {
 	text-align: center;
+}
+
+#dollar {
+	vertical-align: top;
 }
 
 #brainarea p {
