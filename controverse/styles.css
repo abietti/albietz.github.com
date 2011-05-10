@@ -5,6 +5,7 @@ body {
 
 h1, h2, h3 {
 	font-family: "Terminal Dosis Light", arial, sans-serif;
+	color: #999;
 	/*font-size: large;*/
 }
 
@@ -55,7 +56,9 @@ p {
 #sidebar ul {
 	list-style: none;
 	padding: 0 1em;
+	margin-bottom: 25px;
 }
+
 #sidebar li {
 	margin: 5px 0px;
 }
@@ -71,6 +74,7 @@ p {
 	margin: 60px auto;
 	padding: 10px 0;
 	width: 800px;
+	font-size: small;
 }
 
 #ouinon {
@@ -99,6 +103,9 @@ p {
 
 #brainarea p {
 	text-align: center;
+	color: #888;
+	font-weight: bold;
+	font-size: large;
 }
 
 .empha {
