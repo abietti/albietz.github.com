@@ -67,7 +67,7 @@ function compl() {
 var controverse = function() {
 	$('#main').hide();
 	$('#main').load('controverse.html', function() {
-		$('.boxed').colorbox({onComplete: compl, width: "80%", height: "80%", close: "fermer"});
+		$('.boxed').colorbox({onComplete: compl, width: "80%", height: "100%", close: "fermer"});
 		apply(1, 'images/brain_1.jpg', 'La neuroéconomie : simple label ou véritable discipline ?');
 		apply(2, 'images/brain_2.jpg', 'Neuroéconomie : une nouvelle discipline en réponse à la crise financière ? Pas vraiment...');
 		apply(3, 'images/brain_3.jpg', 'Nouveaux domaines de recherche donc nouveaux protocoles, expériences controversées ?');
