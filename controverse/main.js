@@ -70,6 +70,11 @@ var controverse = function() {
 		$('.nav').colorbox({onComplete: compl, width: "80%", height: "100%", close: "retour"});
 		$('.boxed ').colorbox({width: "80%", height: "100%", close: "retour"});
 		$('#cerveau').hide();
+		$('#introlink').click(function(e) {
+			e.preventDefault();
+			$('#cerveau').hide();
+			$('#intro').show();
+		})
 		$('#suivre').click(function(e) {
 			e.preventDefault();
 			$('#intro').hide();
