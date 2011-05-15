@@ -31,9 +31,9 @@ function apply(area, hoverimg, text) {
 }
 
 function compl() {
-	var q = $('#cboxLoadedContent').children().filter(':gt(0)');
-	q.hide();
 	$('#cboxLoadedContent').append('<p><a id="prec" href="">précédent</a> <a id="suiv" href="">suivant</a></p>');
+	var q = $('#cboxLoadedContent').children().filter(':gt(0)');
+	q.hide().last().show();
 	$('#prec').hide();
 	$('#cboxLoadedContent').children().first().nextUntil('h2').show();
 	var titles = $('#cboxLoadedContent').children().filter('h2');
@@ -45,16 +45,20 @@ function compl() {
 		q.hide().last().show();
 		section++;
 		titles.eq(section).show().nextUntil('h2').show();
-		$('prec').show();
-		if (section == size-1) $('suiv').hide();
+		$('#prec').show();
+		if (section == size-1) $('#suiv').hide();
 	};
 	var prec = function(e) {
 		e.preventDefault();
 		q.hide().last().show();
 		section--;
-		titles.eq(section).show().nextUntil('h2').show();
-		$('suiv').show();
-		if (section == 0) $('prec').hide();
+		if (section == -1) {
+			$('#cboxLoadedContent').children().first().nextUntil('h2').show();
+			$('#prec').hide();
+		} else {
+			titles.eq(section).show().nextUntil('h2').show();
+		}
+		$('#suiv').show();
 	};
 	$('#suiv').click(suiv);
 	$('#prec').click(prec);
@@ -63,7 +67,7 @@ function compl() {
 var controverse = function() {
 	$('#main').hide();
 	$('#main').load('controverse.html', function() {
-		$('.boxed').colorbox({onComplete: compl, width: "80%", height: "90%", close: "fermer"});
+		$('.boxed').colorbox({onComplete: compl, width: "80%", height: "80%", close: "fermer"});
 		apply(1, 'images/brain_1.jpg', 'La neuroéconomie : simple label ou véritable discipline ?');
 		apply(2, 'images/brain_2.jpg', 'Neuroéconomie : une nouvelle discipline en réponse à la crise financière ? Pas vraiment...');
 		apply(3, 'images/brain_3.jpg', 'Nouveaux domaines de recherche donc nouveaux protocoles, expériences controversées ?');
@@ -85,5 +89,5 @@ var controverse = function() {
 
 
 $(function() {
-	controverse();
+	ultimatum();
 });

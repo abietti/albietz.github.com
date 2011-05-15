@@ -5,9 +5,19 @@ body {
 
 h1, h2, h3 {
 	font-family: "Terminal Dosis Light", arial, sans-serif;
-	color: #999;
+	color: #4E85E5;
 	/*font-size: large;*/
 }
+
+img {
+	max-width: 700px; 
+}
+
+.commentaire {
+	font-style: italic;
+	font-size: 0.8em;
+	margin: 0px 100px;
+}	
 
 blockquote {
 	font-style: italic;
@@ -15,7 +25,7 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: #22f;
+	color: #999;
 	-webkit-transition: text-shadow .1s linear;
 	transition: text-shadow .1s linear;
 }
