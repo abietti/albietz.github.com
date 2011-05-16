@@ -15,6 +15,10 @@ var ultimatum = function() {
 };
 
 function apply(area, hoverimg, text) {
+	if (document.images) {
+		preload = new Image();
+		preload.src = hoverimg;
+	}
 	$('#link' + area).attr('title', text);
 	$('#area' + area).mouseover(function() {
 		$('#brainimg').attr('src', hoverimg);
@@ -72,27 +76,28 @@ var controverse = function() {
 		$('#cerveau').hide();
 		$('#introlink').click(function(e) {
 			e.preventDefault();
-			$('#cerveau').hide();
-			$('#intro').show();
+			$('#cerveau').slideUp();
+			$('#intro').slideDown();
 		})
-		$('#suivre').click(function(e) {
+		$('#suivre, #navcerveau').click(function(e) {
 			e.preventDefault();
-			$('#intro').hide();
-			$('#cerveau').show(function() {
-				apply(1, 'images/brain_1.jpg', 'La neuroéconomie : simple label ou véritable discipline ?');
-				apply(2, 'images/brain_2.jpg', 'Neuroéconomie : une nouvelle discipline en réponse à la crise financière ? Pas vraiment...');
-				apply(3, 'images/brain_3.jpg', 'Nouveaux domaines de recherche donc nouveaux protocoles, expériences controversées ?');
-				apply(4, 'images/brain_4.jpg', "La neuroéconomie fait-elle de l'homme une machine cérébrale ?");
-				apply(5, 'images/brain_5.jpg', 'Economie ou neurosciences : qui bénéficie vraiment de la neuroéconomie ?');
-				$('#link6').attr('title', 'Neuromarketing : une application concrète ou une dérive de la neuroéconomie ?');
-				$('#dollar').hover(function() {
-					$('#brainarea p').html('Neuromarketing : une application concrète ou une dérive de la neuroéconomie ?');
-					$('#link6').addClass('empha');
-				}, function() {
-					$('#brainarea p').html('<br />');
-					$('#link6').removeClass('empha');
+			$('#intro').slideUp(); //function() {
+				$('#cerveau').slideDown(function() {
+					apply(1, 'images/brain_1.jpg', 'La neuroéconomie : simple label ou véritable discipline ?');
+					apply(2, 'images/brain_2.jpg', 'Neuroéconomie : une nouvelle discipline en réponse à la crise financière ? Pas vraiment...');
+					apply(3, 'images/brain_3.jpg', 'Nouveaux domaines de recherche donc nouveaux protocoles, expériences controversées ?');
+					apply(4, 'images/brain_4.jpg', "La neuroéconomie fait-elle de l'homme une machine cérébrale ?");
+					apply(5, 'images/brain_5.jpg', 'Economie ou neurosciences : qui bénéficie vraiment de la neuroéconomie ?');
+					$('#link6').attr('title', 'Neuromarketing : une application concrète ou une dérive de la neuroéconomie ?');
+					$('#dollar').hover(function() {
+						$('#brainarea p').html('Neuromarketing : une application concrète ou une dérive de la neuroéconomie ?');
+						$('#link6').addClass('empha');
+					}, function() {
+						$('#brainarea p').html('<br />');
+						$('#link6').removeClass('empha');
+					});
 				});
-			});
+			//});
 		});
 	});
 	$('#main').fadeIn('slow');
