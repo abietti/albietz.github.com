@@ -1,5 +1,10 @@
 ---
 layout: default
-title: Alberto Bietti
+title: Home
 ---
-### [Articles, reports](/articles)
+### Test
+{% highlight python %}
+for i in range(10):
+	print 'This is {}'.format(i)
+def f(): pass
+{% endhighlight %}
