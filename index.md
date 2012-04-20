@@ -2,6 +2,6 @@
 layout: default
 title: Home
 ---
-### What's up $x$?
+### What's up?
 
-$$ \sum_{k=0}^n k^2 $$
+Hey, this new website/blog will replace my [old blog](http://alandtech.blogspot.com/). It is built with [jekyll](http://jekyllrb.com/) and [Github](http://github.com/) pages.
