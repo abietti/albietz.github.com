@@ -2,6 +2,9 @@
 layout: default
 title: Articles
 ---
+## Master's thesis
+[Online learning for audio clustering and segmentation](files/ms-thesis.pdf) ([HAL](http://hal.inria.fr/docs/01/06/46/72/PDF/ms-thesis.pdf), [slides](files/slides-ircam.pdf)) - *September 2014*
+
 ## Articles, reports
 * [Deep scattering transform and musical genre classification](files/scattering.pdf) - class project, *March 2014*
 * [Inference in Dirichlet process mixtures with applications to text document clustering](files/dpmixtures.pdf) ([code](http://github.com/albietz/dpmm)) - class project, *January 2014*
