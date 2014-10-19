@@ -3,7 +3,7 @@ layout: default
 title: Articles
 ---
 ## Master's thesis
-[Online learning for audio clustering and segmentation](files/ms-thesis.pdf) ([HAL](http://hal.inria.fr/docs/01/06/46/72/PDF/ms-thesis.pdf), [slides](files/slides-ircam.pdf)) - *September 2014*
+[Online learning for audio clustering and segmentation](files/ms-thesis.pdf) ([HAL](http://hal.inria.fr/hal-01064672v2/document), [slides](files/slides-ircam.pdf)) - *September 2014*
 
 ## Articles, reports
 * [Deep scattering transform and musical genre classification](files/scattering.pdf) - class project, *March 2014*
