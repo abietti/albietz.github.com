@@ -4,9 +4,11 @@ title: About
 ---
 ## About me
 
-I am a student at Mines ParisTech and Ecole Normale Supérieure de Cachan, doing an MS in applied mathematics, machine learning and computer vision. I am also a hacker, pianist and startup enthusiast.
+I am a software engineer at [Quora](http://www.quora.com), working on machine learning and infrastructure for Quora's personalized feed.
 
-I am particularly interested in AI, machine learning, computer vision, natural language processing and robotics, but I also enjoy all sorts of software engineering- and hacker-related stuff.
+In the past, I was a student at Mines ParisTech and Ecole Normale Supérieure de Cachan, doing an MS in applied mathematics, machine learning and computer vision. I also did some research in machine learning and its applications in audio signal processing and computer vision at INRIA, IRCAM and Caltech. In 2012/2013, I was a software engineering intern at Facebook and Quora. I am also a proficient classical pianist.
+
+I am mainly interested in machine learning and AI, including applications in natural language processing, computer vision, signal processing and robotics.
 
 ## Contact
 
