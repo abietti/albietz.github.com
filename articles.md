@@ -6,7 +6,7 @@ title: Publications
 [Online learning for audio clustering and segmentation](files/ms-thesis.pdf) ([HAL](https://hal.inria.fr/hal-01064672v2/document), [slides](files/slides-ircam.pdf), [code](https://github.com/albietz/online_hmm)) - *September 2014*
 
 ## Publications
-A. Bietti, F. Bach, A. Cont. [An online EM algorithm in hidden (semi-)Markov models for audio segmentation and clustering](files/icassp_online_hmm.pdf). *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015. **Best student paper**, Machine Learning for Signal Processing track. ([code](https://github.com/albietz/online_hmm))
+A. Bietti, F. Bach, A. Cont. [An online EM algorithm in hidden (semi-)Markov models for audio segmentation and clustering](files/icassp_online_hmm.pdf). *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015. **Best student paper**, Machine Learning for Signal Processing track. ([HAL](https://hal.inria.fr/hal-01115826/document), [code](https://github.com/albietz/online_hmm))
 
 ## Other technical reports
 * [Deep scattering transform and musical genre classification](files/scattering.pdf) - class project, *March 2014*
