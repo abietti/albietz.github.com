@@ -14,4 +14,4 @@ Previously, I was a software engineer at [Quora](http://www.quora.com), working 
 
 **Twitter**: @[albietz](http://twitter.com/albietz)
 
-**Other**: [LinkedIn](http://www.linkedin.com/profile/view?id=16112341), [Github](http://github.com/albietz), [Quora](http://www.quora.com/Alberto-Bietti)
+**Other**: [LinkedIn](http://www.linkedin.com/in/alberto-bietti-3314905), [Github](http://github.com/albietz), [Quora](http://www.quora.com/Alberto-Bietti)
