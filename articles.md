@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, J. Mairal. [Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite-Sum Structure](https://arxiv.org/pdf/1610.00970.pdf), *[arXiv](https://arxiv.org/abs/1610.00970)* (a short version was presented at the NIPS 2016 optimization workshop), 2016.
+A. Bietti, J. Mairal. [Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite-Sum Structure](https://arxiv.org/pdf/1610.00970.pdf), *[arXiv](https://arxiv.org/abs/1610.00970)* (a short version was presented at the NIPS 2016 optimization workshop), 2017.
 
 A. Bietti, F. Bach, A. Cont. [An online EM algorithm in hidden (semi-)Markov models for audio segmentation and clustering](files/icassp_online_hmm.pdf). *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015. **Best student paper**, Machine Learning for Signal Processing track. ([HAL](https://hal.inria.fr/hal-01115826/document), [code](https://github.com/albietz/online_hmm))
 
