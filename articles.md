@@ -9,12 +9,3 @@ A. Bietti, F. Bach, A. Cont. [An online EM algorithm in hidden (semi-)Markov mod
 
 ## Master's thesis
 [Online learning for audio clustering and segmentation](files/ms-thesis.pdf) ([HAL](https://hal.inria.fr/hal-01064672v2/document), [slides](files/slides-ircam.pdf), [code](https://github.com/albietz/online_hmm)) - *September 2014*
-
-## Other technical reports
-class projects: [Scattering transform for musical genre classification](files/scattering.pdf) (2014),
-[Inference in Dirichlet process mixtures with applications to text document clustering](files/dpmixtures.pdf) (2014, [code](https://github.com/albietz/dpmm)),
-[Beyond hard negative mining](files/circulant.pdf) (2014),
-[Latent Dirichlet Allocation](files/rapport-lda.pdf) (2012, in French)
-
-research projects: [Active learning for object detection on satellite images](files/caltech-report.pdf) (Caltech, 2012),
-[Learning with kernel methods in image recognition](files/dossierTIPE.pdf) (Lycée Louis Le Grand, 2010, in French)
