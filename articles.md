@@ -3,7 +3,9 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](https://arxiv.org/pdf/1706.03078). preprint (long version of the NIPS 2017 paper below), 2017. \[[arxiv](https://arxiv.org/abs/1706.03078)\]
+A. Bietti, A. Agarwal, J. Langford. [Practical Evaluation and Optimization of Contextual Bandit Algorithms](https://arxiv.org/pdf/1802.04064.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1802.04064)\]
+
+A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](https://arxiv.org/pdf/1706.03078.pdf). preprint (long version of the NIPS 2017 paper below), 2017. \[[arxiv](https://arxiv.org/abs/1706.03078)\]
 
 A. Bietti, J. Mairal. [Invariance and Stability of Deep Convolutional Representations](https://hal.inria.fr/hal-01630265/document). In *NIPS*, 2017. \[[hal](https://hal.inria.fr/hal-01630265/document)\]
 
