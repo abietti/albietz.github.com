@@ -10,7 +10,7 @@ Previously, I was a software engineer at [Quora](http://www.quora.com), working 
 
 ## Contact
 
-**Email**: *{my first name}* at bietti dot me
+**Email**: *{first name}* at *{last name}* dot me
 
 **Twitter**: @[albietz](http://twitter.com/albietz)
 
