@@ -3,6 +3,8 @@ layout: default
 title: Talks
 ---
 ## Selected Talks
+[Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](files/stability_ens.pdf). Laplace reading group, ENS, Paris, 2018.
+
 [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](files/talk_mode18.pdf). Journées SMAI-MODE, Autrans, 2018.
 
 [Deep Convolutional Representations: Invariance, Stability, Signal Preservation, Model Complexity](files/stability_nyu17.pdf). NYU, 2017.
