@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 ## Publications
+A. Bietti, G. Mialon, J. Mairal. [On Regularization and Robustness of Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01708310/document)\]
+
 A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://arxiv.org/pdf/1802.04064.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310/document), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
 
 A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](https://arxiv.org/pdf/1706.03078.pdf). preprint (long version of the NIPS 2017 paper below), 2017. \[[arxiv](https://arxiv.org/abs/1706.03078)\]
