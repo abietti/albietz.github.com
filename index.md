@@ -12,6 +12,4 @@ Previously, I was a software engineer at [Quora](http://www.quora.com), working 
 
 **Email**: *{first name}* at *{last name}* dot me
 
-**Twitter**: @[albertobietti](http://twitter.com/albertobietti)
-
-**Other**: [Github](http://github.com/albietz), [Quora](http://www.quora.com/Alberto-Bietti), [LinkedIn](http://www.linkedin.com/in/alberto-bietti-3314905)
+**Other**: [Twitter](http://twitter.com/albertobietti), [Github](http://github.com/albietz), [Quora](http://www.quora.com/Alberto-Bietti), [LinkedIn](http://www.linkedin.com/in/alberto-bietti-3314905)
