@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, G. Mialon, J. Mairal. [On Regularization and Robustness of Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632/document)\]
+A. Bietti, G. Mialon, D. Chen, J. Mairal. [A Kernel Perspective for Regularizing Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). preprint, 2019. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632/document)\]
 
 A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](https://arxiv.org/pdf/1706.03078.pdf). preprint (long version of the NIPS 2017 paper below), 2018. \[[arxiv](https://arxiv.org/abs/1706.03078)\]
 
