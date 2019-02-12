@@ -3,11 +3,11 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, G. Mialon, D. Chen, J. Mairal. [A Kernel Perspective for Regularizing Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). preprint, 2019. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632/document)\]
+A. Bietti, G. Mialon, D. Chen, J. Mairal. [A Kernel Perspective for Regularizing Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). preprint, 2019. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632)\]
 
-A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](https://arxiv.org/pdf/1706.03078.pdf). To appear in *Journal of Machine Learning Research (JMLR)*, 2019. \[[arxiv](https://arxiv.org/abs/1706.03078)\]
+A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](http://www.jmlr.org/papers/volume20/18-190/18-190.pdf). In *Journal of Machine Learning Research (JMLR)*, 20(25):1−49, 2019. \[[arxiv](https://arxiv.org/abs/1706.03078), [hal](https://hal.inria.fr/hal-01536004)\]
 
-A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://arxiv.org/pdf/1802.04064.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310/document), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
+A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://arxiv.org/pdf/1802.04064.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
 
 A. Bietti, J. Mairal. [Invariance and Stability of Deep Convolutional Representations](https://hal.inria.fr/hal-01630265/document). In *NIPS*, 2017. \[[hal](https://hal.inria.fr/hal-01630265/document)\]
 
