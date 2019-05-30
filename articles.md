@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 ## Publications
+A. Bietti, J. Mairal. [On the Inductive Bias of Neural Tangent Kernels](https://arxiv.org/pdf/1905.12173.pdf). preprint, 2019. \[[arxiv](https://arxiv.org/abs/1905.12173)\]
+
 A. Bietti, G. Mialon, D. Chen, J. Mairal. [A Kernel Perspective for Regularizing Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). In *ICML*, 2019. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632), [code](https://github.com/albietz/kernel_reg)\]
 
 A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](http://www.jmlr.org/papers/volume20/18-190/18-190.pdf). In *Journal of Machine Learning Research (JMLR)*, 20(25):1−49, 2019. \[[arxiv](https://arxiv.org/abs/1706.03078), [hal](https://hal.inria.fr/hal-01536004)\]
