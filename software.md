@@ -7,6 +7,8 @@ title: Software
 
 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit): Multiple contributions, mostly related to Contextual Bandit algorithms (see [Bietti, Agarwal and Langford, 2018](https://arxiv.org/abs/1802.04064)).
 
+[RKHS regularization](https://github.com/albietz/kernel_reg): Pytorch package with regularizers based on approximations of the RKHS norm of generic CNNs, for small datasets and adversarial robustness (see [Bietti, Mialon, Chen and Mairal, 2019](https://arxiv.org/abs/1810.00363)).
+
 [qmf](https://github.com/quora/qmf): C++ library for implicit-feedback matrix factorization algorithms. Built with Denis Yarats while at Quora.
 
 [online HMM](https://github.com/albietz/online_hmm): Python/numpy code for online EM algorithms in hidden Markov and semi-Markov models (see [Bietti, Bach and Cont, 2015](files/icassp_online_hmm.pdf)).
