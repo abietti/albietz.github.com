@@ -3,11 +3,10 @@ layout: default
 title: Talks
 ---
 ## Selected Talks
-[Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](files/stability_ens.pdf). Laplace reading group, ENS, Paris, 2018.
 
-[Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](files/talk_mode18.pdf). Journées SMAI-MODE, Autrans, 2018.
+Invariance and Stability to Deformations of Deep Convolutional Representations. [NYU 2017](files/stability_nyu17.pdf), [SMAI-MODE 2018](files/talk_mode18.pdf), [ENS 2018](files/stability_ens.pdf), [TTIC 2019](files/stability_ttic.pdf), [MSR 2019](files/stability_msr.pdf) ([video](https://www.youtube.com/watch?v=tn4C__Kxm18)), [UC Berkeley 2019](files/stability_berkeley.pdf)
 
-[Deep Convolutional Representations: Invariance, Stability, Signal Preservation, Model Complexity](files/stability_nyu17.pdf). NYU, 2017.
+[A Contextual Bandit Bake-Off](files/bakeoff_telecom.pdf). Telecom ParisTech, 2018.
 
 [A Family of Stochastic Surrogate Optimization Algorithms](files/talk_opt17.pdf). SIAM Optimization, Vancouver, 2017.
 
