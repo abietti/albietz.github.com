@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 ## Publications
+A. Bietti. [Foundations of Deep Convolutional Models through Kernel Methods](files/phd_thesis.pdf). *PhD thesis*, Université Grenoble Alpes, 2019. \[[slides](files/phd_slides.pdf)\]
+
 A. Bietti, J. Mairal. [On the Inductive Bias of Neural Tangent Kernels](https://arxiv.org/pdf/1905.12173.pdf). In *NeurIPS*, 2019. \[[arxiv](https://arxiv.org/abs/1905.12173), [hal](https://hal.inria.fr/hal-02144221), [poster](files/ntk_neurips2019_poster.pdf)\]
 
 A. Bietti, G. Mialon, D. Chen, J. Mairal. [A Kernel Perspective for Regularizing Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). In *ICML*, 2019. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632), [code](https://github.com/albietz/kernel_reg)\]
