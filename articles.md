@@ -19,5 +19,4 @@ A. Bietti, J. Mairal. [Stochastic Optimization with Variance Reduction for Infin
 
 A. Bietti, F. Bach, A. Cont. [An online EM algorithm in hidden (semi-)Markov models for audio segmentation and clustering](files/icassp_online_hmm.pdf). In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015. **Best student paper**, Machine Learning for Signal Processing track. \[[hal](https://hal.inria.fr/hal-01115826/document), [code](https://github.com/albietz/online_hmm)\]
 
-## Master's thesis
-[Online learning for audio clustering and segmentation](files/ms-thesis.pdf) \[[hal](https://hal.inria.fr/hal-01064672/document), [slides](files/slides-ircam.pdf), [code](https://github.com/albietz/online_hmm)\] - *September 2014*
+A. Bietti. [Online learning for audio clustering and segmentation](files/ms-thesis.pdf). *Master's thesis*, Ecole Normale Supérieure de Cachan and Mines ParisTech, 2014. \[[hal](https://hal.inria.fr/hal-01064672/document), [slides](files/slides-ircam.pdf), [code](https://github.com/albietz/online_hmm)\]
