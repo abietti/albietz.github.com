@@ -3,6 +3,10 @@ layout: default
 title: Publications
 ---
 ## Publications
+N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://arxiv.org/pdf/2006.01868). preprint, 2020. \[[arxiv](https://arxiv.org/abs/2006.01868)\]
+
+H. Zenati, A. Bietti, M. Martin, E. Diemert, J. Mairal. [Optimization Approaches for Counterfactual Risk Minimization with Continuous Actions](https://arxiv.org/pdf/2004.11722). preprint, 2020. \[[arxiv](https://arxiv.org/abs/2004.11722), [code](https://github.com/criteo-research/optimization-continuous-action-crm)\]
+
 A. Bietti. [Foundations of Deep Convolutional Models through Kernel Methods](https://tel.archives-ouvertes.fr/tel-02543073/document). *PhD thesis*, Université Grenoble Alpes, 2019. \[[slides](files/phd_slides.pdf), [hal](https://hal.inria.fr/tel-02543073)\]
 
 A. Bietti, J. Mairal. [On the Inductive Bias of Neural Tangent Kernels](https://arxiv.org/pdf/1905.12173.pdf). In *NeurIPS*, 2019. \[[arxiv](https://arxiv.org/abs/1905.12173), [hal](https://hal.inria.fr/hal-02144221), [poster](files/ntk_neurips2019_poster.pdf)\]
