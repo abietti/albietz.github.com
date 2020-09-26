@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 ## Publications
-N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://arxiv.org/pdf/2006.01868). preprint, 2020. \[[arxiv](https://arxiv.org/abs/2006.01868)\]
+N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://arxiv.org/pdf/2006.01868). In *NeurIPS*, 2020. **Spotlight presentation**. \[[arxiv](https://arxiv.org/abs/2006.01868)\]
 
 H. Zenati, A. Bietti, M. Martin, E. Diemert, J. Mairal. [Counterfactual Learning of Continuous Stochastic Policies](https://arxiv.org/pdf/2004.11722). preprint, 2020. \[[arxiv](https://arxiv.org/abs/2004.11722), [code](https://github.com/criteo-research/optimization-continuous-action-crm)\]
 
