@@ -4,7 +4,7 @@ title: Home
 ---
 ## About
 
-I am a Research Fellow at the [NYU Center for Data Science](http://cds.nyu.edu/).
+I am a CDS Faculty Fellow at the [NYU Center for Data Science](http://cds.nyu.edu/).
 I completed my PhD in December 2019 from Inria and Université Grenoble-Alpes, where I worked in the [Thoth team](http://thoth.inrialpes.fr/) on machine learning and optimization under the supervision of [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/), supported by the [MSR-Inria joint center](http://www.msr-inria.fr/).
 I also spent part of 2020 as a postdoc in the [Inria Sierra team](https://www.di.ens.fr/sierra/), hosted by [Francis Bach](https://www.di.ens.fr/~fbach/).
 
