@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 ## Publications
+A. Bietti. [On Approximation in Deep Convolutional Networks: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032)\]
+
 A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](https://arxiv.org/pdf/2009.14397.pdf). In *ICLR*, 2021. \[[arxiv](https://arxiv.org/abs/2009.14397), [code](https://github.com/albietz/deep_shallow_kernel)\]
 
 N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://arxiv.org/pdf/2006.01868.pdf). In *NeurIPS*, 2020. **Spotlight presentation**. \[[arxiv](https://arxiv.org/abs/2006.01868)\]
