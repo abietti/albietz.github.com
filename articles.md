@@ -3,7 +3,9 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti. [On Approximation in Deep Convolutional Networks: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032)\]
+C. Domingo-Enrich, A. Bietti, E. Vanden-Eijnden, J. Bruna. [On Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2104.07531.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2104.07531), [code](https://github.com/CDEnrich/ebms_shallow_nn)\]
+
+A. Bietti. [On Approximation in Deep Convolutional Networks: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
 
 A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](https://arxiv.org/pdf/2009.14397.pdf). In *ICLR*, 2021. \[[arxiv](https://arxiv.org/abs/2009.14397), [code](https://github.com/albietz/deep_shallow_kernel)\]
 
