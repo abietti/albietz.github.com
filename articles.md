@@ -3,13 +3,15 @@ layout: default
 title: Publications
 ---
 ## Publications
+A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
+
 N. Keriven, A. Bietti, S. Vaiter. [On the Universality of Graph Neural Networks on Large Random Graphs](https://arxiv.org/pdf/2105.13099.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2105.13099)\]
 
 C. Domingo-Enrich, A. Bietti, E. Vanden-Eijnden, J. Bruna. [On Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2104.07531.pdf). in *ICML*, 2021. \[[arxiv](https://arxiv.org/abs/2104.07531), [code](https://github.com/CDEnrich/ebms_shallow_nn)\]
 
-A. Bietti. [On Approximation in Deep Convolutional Networks: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
-
 A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](https://arxiv.org/pdf/2009.14397.pdf). In *ICLR*, 2021. \[[arxiv](https://arxiv.org/abs/2009.14397), [code](https://github.com/albietz/deep_shallow_kernel)\]
+
+A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://arxiv.org/pdf/1802.04064.pdf). In *Journal of Machine Learning Research* (to appear), 2021. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
 
 N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://arxiv.org/pdf/2006.01868.pdf). In *NeurIPS*, 2020. **Spotlight presentation**. \[[arxiv](https://arxiv.org/abs/2006.01868)\]
 
@@ -22,8 +24,6 @@ A. Bietti, J. Mairal. [On the Inductive Bias of Neural Tangent Kernels](https://
 A. Bietti, G. Mialon, D. Chen, J. Mairal. [A Kernel Perspective for Regularizing Deep Neural Networks](https://arxiv.org/pdf/1810.00363.pdf). In *ICML*, 2019. \[[arxiv](https://arxiv.org/abs/1810.00363), [hal](https://hal.inria.fr/hal-01884632), [code](https://github.com/albietz/kernel_reg)\]
 
 A. Bietti, J. Mairal. [Group Invariance, Stability to Deformations, and Complexity of Deep Convolutional Representations](http://www.jmlr.org/papers/volume20/18-190/18-190.pdf). In *Journal of Machine Learning Research (JMLR)*, 20(25):1−49, 2019. \[[arxiv](https://arxiv.org/abs/1706.03078), [hal](https://hal.inria.fr/hal-01536004)\]
-
-A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://arxiv.org/pdf/1802.04064.pdf). preprint, 2018. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
 
 A. Bietti, J. Mairal. [Invariance and Stability of Deep Convolutional Representations](https://hal.inria.fr/hal-01630265/document). In *NIPS*, 2017. \[[hal](https://hal.inria.fr/hal-01630265/document)\]
 
