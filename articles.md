@@ -9,7 +9,7 @@ N. Keriven, A. Bietti, S. Vaiter. [On the Universality of Graph Neural Networks 
 
 C. Domingo-Enrich, A. Bietti, E. Vanden-Eijnden, J. Bruna. [On Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2104.07531.pdf). in *ICML*, 2021. \[[arxiv](https://arxiv.org/abs/2104.07531), [code](https://github.com/CDEnrich/ebms_shallow_nn)\]
 
-A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](https://arxiv.org/pdf/2009.14397.pdf). In *ICLR*, 2021. \[[arxiv](https://arxiv.org/abs/2009.14397), [code](https://github.com/albietz/deep_shallow_kernel)\]
+A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](https://arxiv.org/pdf/2009.14397.pdf). In *ICLR*, 2021. \[[arxiv](https://arxiv.org/abs/2009.14397), [code](https://github.com/albietz/deep_shallow_kernel), [video](https://slideslive.com/38953756/deep-equals-shallow-for-relu-networks-in-kernel-regimes)\]
 
 A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://arxiv.org/pdf/1802.04064.pdf). In *Journal of Machine Learning Research* (to appear), 2021. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
 
