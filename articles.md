@@ -3,15 +3,15 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, L. Venturi, J. Bruna. [On the Sample Complexity of Learning with Geometric Stability](https://arxiv.org/pdf/2106.07148). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2106.07148)\]
-
 A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
 
 C. Domingo-Enrich, A. Bietti, M. Gabrié, J. Bruna, E. Vanden-Eijnden. [Dual Training of Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2107.05134). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2107.05134), [code](https://github.com/CDEnrich/dual_ebms)\]
 
-N. Keriven, A. Bietti, S. Vaiter. [On the Universality of Graph Neural Networks on Large Random Graphs](https://arxiv.org/pdf/2105.13099.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2105.13099)\]
+A. Bietti, L. Venturi, J. Bruna. [On the Sample Complexity of Learning with Geometric Stability](https://arxiv.org/pdf/2106.07148). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2106.07148)\]
 
-C. Domingo-Enrich, A. Bietti, E. Vanden-Eijnden, J. Bruna. [On Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2104.07531.pdf). in *ICML*, 2021. **Long talk**. \[[arxiv](https://arxiv.org/abs/2104.07531), [code](https://github.com/CDEnrich/ebms_shallow_nn)\]
+N. Keriven, A. Bietti, S. Vaiter. [On the Universality of Graph Neural Networks on Large Random Graphs](https://arxiv.org/pdf/2105.13099.pdf). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2105.13099)\]
+
+C. Domingo-Enrich, A. Bietti, E. Vanden-Eijnden, J. Bruna. [On Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2104.07531.pdf). In *ICML*, 2021. **Long talk**. \[[arxiv](https://arxiv.org/abs/2104.07531), [code](https://github.com/CDEnrich/ebms_shallow_nn)\]
 
 A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](https://arxiv.org/pdf/2009.14397.pdf). In *ICLR*, 2021. \[[arxiv](https://arxiv.org/abs/2009.14397), [code](https://github.com/albietz/deep_shallow_kernel), [video](https://slideslive.com/38953756/deep-equals-shallow-for-relu-networks-in-kernel-regimes)\]
 
