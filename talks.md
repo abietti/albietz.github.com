@@ -4,6 +4,8 @@ title: Talks
 ---
 ## Selected Talks
 
+On the Sample Complexity of Learning under Invariance and Geometric Stability. [Berkeley 2021](files/talk_berkeley21.pdf), [Flatiron 2021](files/talk_flatiron21.pdf), [Johns Hopkins 2021](files/talk_jhu21.pdf)
+
 [Approximation and Generalization with Deep Convolutional Kernels](files/talk_epfl21.pdf). EPFL, 2021.
 
 Foundations of Deep Convolutional Models through Kernel Methods. [Phd thesis 2019](files/phd_slides.pdf), [MSR NY 2020](files/talk_msr20.pdf), [TTIC 2020](files/talk_ttic20.pdf), [NYU CDS 2020](files/talk_cds.pdf) ([video](https://drive.google.com/file/d/1MNyCgVZvRQjq9MSuRVoxAITtkliOaRx_/view)), [MALGA 2021](files/talk_malga21.pdf) ([video](https://www.youtube.com/watch?v=o5ENlzzOqS4))
