@@ -7,7 +7,7 @@ A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel 
 
 C. Domingo-Enrich, A. Bietti, M. Gabrié, J. Bruna, E. Vanden-Eijnden. [Dual Training of Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2107.05134). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2107.05134), [code](https://github.com/CDEnrich/dual_ebms)\]
 
-A. Bietti, L. Venturi, J. Bruna. [On the Sample Complexity of Learning with Geometric Stability](https://arxiv.org/pdf/2106.07148). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2106.07148)\]
+A. Bietti, L. Venturi, J. Bruna. [On the Sample Complexity of Learning under Invariance and Geometric Stability](https://arxiv.org/pdf/2106.07148). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2106.07148)\]
 
 N. Keriven, A. Bietti, S. Vaiter. [On the Universality of Graph Neural Networks on Large Random Graphs](https://arxiv.org/pdf/2105.13099.pdf). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2105.13099)\]
 
@@ -21,7 +21,7 @@ N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutio
 
 H. Zenati, A. Bietti, M. Martin, E. Diemert, J. Mairal. [Counterfactual Learning of Continuous Stochastic Policies](https://arxiv.org/pdf/2004.11722.pdf). preprint, 2020. \[[arxiv](https://arxiv.org/abs/2004.11722), [code](https://github.com/criteo-research/optimization-continuous-action-crm)\]
 
-A. Bietti. [Foundations of Deep Convolutional Models through Kernel Methods](https://tel.archives-ouvertes.fr/tel-02543073/document). *PhD thesis*, Université Grenoble Alpes, 2019. \[[slides](files/phd_slides.pdf), [hal](https://hal.inria.fr/tel-02543073)\]
+A. Bietti. [Foundations of Deep Convolutional Models through Kernel Methods](https://tel.archives-ouvertes.fr/tel-02543073/document). *PhD thesis*, Université Grenoble-Alpes, 2019. **Best PhD prize, Université Grenoble-Alpes**. \[[slides](files/phd_slides.pdf), [hal](https://hal.inria.fr/tel-02543073)\]
 
 A. Bietti, J. Mairal. [On the Inductive Bias of Neural Tangent Kernels](https://arxiv.org/pdf/1905.12173.pdf). In *NeurIPS*, 2019. \[[arxiv](https://arxiv.org/abs/1905.12173), [hal](https://hal.inria.fr/hal-02144221), [poster](files/ntk_neurips2019_poster.pdf)\]
 
