@@ -3,9 +3,9 @@ layout: default
 title: Publications
 ---
 ## Publications
-H. Zenati, A. Bietti, E. Diemert, J. Mairal, M. Martin, P. Gaillard. [Efficient Kernelized UCB for Contextual Bandits](/). In *AISTATS*, 2022.
+A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://openreview.net/pdf?id=lrocYB-0ST2). In *ICLR*, 2022. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
 
-A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://arxiv.org/pdf/2102.10032.pdf). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
+H. Zenati, A. Bietti, E. Diemert, J. Mairal, M. Martin, P. Gaillard. [Efficient Kernelized UCB for Contextual Bandits](/). In *AISTATS*, 2022.
 
 C. Domingo-Enrich, A. Bietti, M. Gabrié, J. Bruna, E. Vanden-Eijnden. [Dual Training of Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2107.05134). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2107.05134), [code](https://github.com/CDEnrich/dual_ebms)\]
 
