@@ -7,7 +7,7 @@ A. Bietti, C.-Y. Wei, M. Dudík, J. Langford, Z. S. Wu. [Personalization Improve
 
 A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://openreview.net/pdf?id=lrocYB-0ST2). In *ICLR*, 2022. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
 
-H. Zenati, A. Bietti, E. Diemert, J. Mairal, M. Martin, P. Gaillard. [Efficient Kernelized UCB for Contextual Bandits](/). In *AISTATS*, 2022.
+H. Zenati, A. Bietti, E. Diemert, J. Mairal, M. Martin, P. Gaillard. [Efficient Kernelized UCB for Contextual Bandits](https://arxiv.org/pdf/2202.05638). In *AISTATS*, 2022. \[[arxiv](https://arxiv.org/abs/2202.05638), [code](https://github.com/criteo-research/Efficient-Kernel-UCB)\]
 
 C. Domingo-Enrich, A. Bietti, M. Gabrié, J. Bruna, E. Vanden-Eijnden. [Dual Training of Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2107.05134). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2107.05134), [code](https://github.com/CDEnrich/dual_ebms)\]
 
