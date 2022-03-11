@@ -11,7 +11,7 @@ H. Zenati, A. Bietti, E. Diemert, J. Mairal, M. Martin, P. Gaillard. [Efficient 
 
 C. Domingo-Enrich, A. Bietti, M. Gabrié, J. Bruna, E. Vanden-Eijnden. [Dual Training of Energy-Based Models with Overparametrized Shallow Neural Networks](https://arxiv.org/pdf/2107.05134). preprint, 2021. \[[arxiv](https://arxiv.org/abs/2107.05134), [code](https://github.com/CDEnrich/dual_ebms)\]
 
-A. Bietti, L. Venturi, J. Bruna. [On the Sample Complexity of Learning under Invariance and Geometric Stability](https://arxiv.org/pdf/2106.07148). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2106.07148)\]
+A. Bietti, L. Venturi, J. Bruna. [On the Sample Complexity of Learning under Invariance and Geometric Stability](https://arxiv.org/pdf/2106.07148). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2106.07148), [video](https://nips.cc/virtual/2021/poster/26564)\]
 
 N. Keriven, A. Bietti, S. Vaiter. [On the Universality of Graph Neural Networks on Large Random Graphs](https://arxiv.org/pdf/2105.13099.pdf). In *NeurIPS*, 2021. \[[arxiv](https://arxiv.org/abs/2105.13099)\]
 
