@@ -3,9 +3,9 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, C.-Y. Wei, M. Dudík, J. Langford, Z. S. Wu. [Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization](https://arxiv.org/pdf/2202.05318). preprint, 2022. \[[arxiv](https://arxiv.org/abs/2202.05318), [code](https://github.com/albietz/ppsgd)\]
-
 E. Dohmatob, A. Bietti. [On the (Non-)Robustness of Two-Layer Neural Networks in Different Learning Regimes](https://arxiv.org/pdf/2203.11864), preprint, 2022. \[[arxiv](https://arxiv.org/abs/2203.11864)\]
+
+A. Bietti, C.-Y. Wei, M. Dudík, J. Langford, Z. S. Wu. [Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization](https://arxiv.org/pdf/2202.05318). In *ICML*, 2022. \[[arxiv](https://arxiv.org/abs/2202.05318), [code](https://github.com/albietz/ppsgd)\]
 
 A. Bietti. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://openreview.net/pdf?id=lrocYB-0ST2). In *ICLR*, 2022. \[[arxiv](https://arxiv.org/abs/2102.10032), [code](https://github.com/albietz/ckn_kernel)\]
 
