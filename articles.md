@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 ## Publications
-D. Brandfonbrener, A. Bietti, J. Buckman, R. Laroche, J. Bruna. [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/pdf/2206.01079) preprint, 2022. \[[arxiv](https://arxiv.org/abs/2206.01079)\]
+D. Brandfonbrener, A. Bietti, J. Buckman, R. Laroche, J. Bruna. [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/pdf/2206.01079) In *NeurIPS*, 2022. \[[arxiv](https://arxiv.org/abs/2206.01079)\]
 
 E. Dohmatob, A. Bietti. [On the (Non-)Robustness of Two-Layer Neural Networks in Different Learning Regimes](https://arxiv.org/pdf/2203.11864). preprint, 2022. \[[arxiv](https://arxiv.org/abs/2203.11864)\]
 
