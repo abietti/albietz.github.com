@@ -4,9 +4,9 @@ title: Talks
 ---
 ## Selected Talks
 
-Benefits of Convolutional Models: A Kernel Perspective. [Harvard 2022](files/talk_harvard22.pdf), [Gatsby 2022](files/talk_gatsby22.pdf), [Meta 2022](files/talk_meta22.pdf), [NYU 2022](files/talk_nyu22.pdf), [BIRS 2022](files/talk_birs22.pdf), [Flatiron PhysML 2022](files/talk_flatiron_physml22.pdf).
+Benefits of Convolutional Models: A Kernel Perspective. [UMN 2022](files/talk_umn22.pdf), [Harvard 2022](files/talk_harvard22.pdf), [Gatsby 2022](files/talk_gatsby22.pdf), [Meta 2022](files/talk_meta22.pdf), [NYU 2022](files/talk_nyu22.pdf), [BIRS 2022](files/talk_birs22.pdf), [Flatiron PhysML 2022](files/talk_flatiron_physml22.pdf).
 
-On the Sample Complexity of Learning under Invariance and Geometric Stability. [Berkeley 2021](files/talk_berkeley21.pdf), [Flatiron 2021](files/talk_flatiron21.pdf), [Johns Hopkins 2021](files/talk_jhu21.pdf), [UMN 2022](files/talk_umn22.pdf), [Cambridge 2022](files/talk_cambridge.pdf).
+On the Sample Complexity of Learning under Invariance and Geometric Stability. [Berkeley 2021](files/talk_berkeley21.pdf), [Flatiron 2021](files/talk_flatiron21.pdf), [Johns Hopkins 2021](files/talk_jhu21.pdf), [Cambridge 2022](files/talk_cambridge22.pdf).
 
 [Approximation and Generalization with Deep Convolutional Kernels](files/talk_epfl21.pdf). EPFL, 2021.
 
