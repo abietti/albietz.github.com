@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 ## Publications
-A. Bietti, J. Bruna, C. Sanford, M. J. Song. Learning Single-Index Models with Shallow Neural Networks. In *NeurIPS*, 2022.
+A. Bietti, J. Bruna, C. Sanford, M. J. Song. [Learning Single-Index Models with Shallow Neural Networks](https://arxiv.org/pdf/2210.15651.pdf). In *NeurIPS*, 2022. \[[arxiv](https://arxiv.org/abs/2210.15651)\]
 
 D. Brandfonbrener, A. Bietti, J. Buckman, R. Laroche, J. Bruna. [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/pdf/2206.01079) In *NeurIPS*, 2022. \[[arxiv](https://arxiv.org/abs/2206.01079)\]
 
