@@ -3,9 +3,13 @@ layout: default
 title: Publications
 ---
 ## Publications
+V. Cabannes, B. T. Kiani, R. Balestriero, Y. LeCun, A. Bietti. [The SSL Interplay: Augmentations, Inductive Bias, and Generalization](https://arxiv.org/pdf/2302.02774). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2302.02774)\]
+
 A. Bietti, J. Bruna, C. Sanford, M. J. Song. [Learning Single-Index Models with Shallow Neural Networks](https://arxiv.org/pdf/2210.15651.pdf). In *NeurIPS*, 2022. \[[arxiv](https://arxiv.org/abs/2210.15651)\]
 
 D. Brandfonbrener, A. Bietti, J. Buckman, R. Laroche, J. Bruna. [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/pdf/2206.01079) In *NeurIPS*, 2022. \[[arxiv](https://arxiv.org/abs/2206.01079)\]
+
+V. Cabannes, A. Bietti, R. Balestriero. [On minimal variations for unsupervised representation learning](https://arxiv.org/pdf/2211.03782). preprint, 2022. \[[arxiv](https://arxiv.org/abs/2211.03782)\]
 
 E. Dohmatob, A. Bietti. [On the (Non-)Robustness of Two-Layer Neural Networks in Different Learning Regimes](https://arxiv.org/pdf/2203.11864). preprint, 2022. \[[arxiv](https://arxiv.org/abs/2203.11864)\]
 
