@@ -3,6 +3,9 @@ layout: default
 title: Publications
 ---
 ## Publications
+
+A. Bietti, V. Cabannes, D. Bouchacourt, H. Jegou, L. Bottou. [Birth of a Transformer: A Memory Viewpoint](https://arxiv.org/pdf/2306.00802). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2306.00802)\]
+
 V. Cabannes, B. T. Kiani, R. Balestriero, Y. LeCun, A. Bietti. [The SSL Interplay: Augmentations, Inductive Bias, and Generalization](https://arxiv.org/pdf/2302.02774). In *ICML*, 2023. \[[arxiv](https://arxiv.org/abs/2302.02774)\]
 
 V. Cabannes, A. Bietti, R. Balestriero. [On minimal variations for unsupervised representation learning](https://arxiv.org/pdf/2211.03782). In *ICASSP*, 2023. \[[arxiv](https://arxiv.org/abs/2211.03782)\]
