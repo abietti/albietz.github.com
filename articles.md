@@ -4,6 +4,8 @@ title: Publications
 ---
 ## Publications
 
+A. Bietti, J. Bruna, L. Pillaud-Vivien. [On Learning Gaussian Multi-index Models with Gradient Flow](https://arxiv.org/pdf/2310.19793.pdf). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2310.19793)\]
+
 V. Cabannes, E. Dohmatob, A. Bietti. [Scaling Laws for Associative Memories](https://arxiv.org/pdf/2310.02984). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2310.02984)\]
 
 A. Bietti, V. Cabannes, D. Bouchacourt, H. Jegou, L. Bottou. [Birth of a Transformer: A Memory Viewpoint](https://arxiv.org/pdf/2306.00802). In *NeurIPS*, 2023. **Spotlight presentation**. \[[arxiv](https://arxiv.org/abs/2306.00802)\]
