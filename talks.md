@@ -6,7 +6,7 @@ title: Talks
 
 Transformers and Associative Memories. [Oberwolfach 2023](files/talk_ow23.pdf), [ML @ Flatiron 2023](files/talk_mlfi23.pdf), [MIT 2023](files/mit_lecture_transformer.pdf).
 
-Learning Single-Index Models with Shallow Networks. [ICTP 2022](files/talk_ictp22.pdf).
+Learning Single-Index Models with Shallow Networks. [ICTP 2022](files/talk_ictp22.pdf) ([video](https://www.youtube.com/watch?v=A4F6-32_n40)).
 
 Benefits of Convolutional Models: A Kernel Perspective. [UMN 2022](files/talk_umn22.pdf), [Harvard 2022](files/talk_harvard22.pdf), [Gatsby 2022](files/talk_gatsby22.pdf), [BIRS 2022](files/talk_birs22.pdf), [Flatiron PhysML 2022](files/talk_flatiron_physml22.pdf), [SIAM MDS 2022]().
 
