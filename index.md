@@ -4,7 +4,7 @@ title: Home
 ---
 ## About
 
-I am a research scientist in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron). I am also involved in the [Polymathic AI](https://polymathic-ai.org/) initiative on foundation models for science.
+I am a research scientist in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron). At Flatiron, I am also involved in the [Polymathic AI](https://polymathic-ai.org/) initiative on foundation models for science.
 
 **Opportunities at Flatiron CCM**: we have openings for [postdoc/research fellow](https://apply.interfolio.com/134615) and [summer intern](https://apply.interfolio.com/137386) positions.
 
