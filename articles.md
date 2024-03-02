@@ -4,6 +4,10 @@ title: Publications
 ---
 ## Publications
 
+V. Cabannes, B. Simsek, A. Bietti. [Learning Associative Memories with Gradient Descent](https://arxiv.org/pdf/2402.18724). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2402.18724)\]
+
+F. Kunstner, R. Yadav, A. Milligan, M. Schmidt, A. Bietti. [Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models](https://arxiv.org/pdf/2402.19449). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2402.19449)\]
+
 V. Cabannes, E. Dohmatob, A. Bietti. [Scaling Laws for Associative Memories](https://arxiv.org/pdf/2310.02984). In *ICLR*, 2024. **Spotlight**. \[[arxiv](https://arxiv.org/abs/2310.02984)\]
 
 A. Bietti, J. Bruna, L. Pillaud-Vivien. [On Learning Gaussian Multi-index Models with Gradient Flow](https://arxiv.org/pdf/2310.19793.pdf). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2310.19793)\]
