@@ -4,7 +4,7 @@ title: Home
 ---
 ## About
 
-I am a research scientist in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron). At Flatiron, I am also involved in the [Polymathic AI](https://polymathic-ai.org/) initiative on foundation models for science.
+I am a research scientist in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron). At Flatiron, I am also involved in the [Polymathic AI](https://polymathic-ai.org/) initiative on foundation models for science (for our research engineer position, please [apply here](https://forms.gle/w9AytM5CBWMYKJcj6)!).
 
 I completed my PhD in December 2019 from Inria and Université Grenoble-Alpes, where I worked in the [Thoth team](http://thoth.inrialpes.fr/) on machine learning and optimization under the supervision of [Julien Mairal](http://thoth.inrialpes.fr/people/mairal/), supported by the [MSR-Inria joint center](http://www.msr-inria.fr/).
 I was a CDS Faculty Fellow at the [NYU Center for Data Science](http://cds.nyu.edu/) from 2020 to 2022, and a visiting research scientist at [Meta AI](https://ai.facebook.com/research/) in 2022-2023.

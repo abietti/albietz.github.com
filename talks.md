@@ -4,7 +4,7 @@ title: Talks
 ---
 ## Selected Talks
 
-Transformers and Associative Memories. [Oberwolfach 2023](files/talk_ow23.pdf), [ML @ Flatiron 2023](files/talk_mlfi23.pdf), [MIT 2023](files/mit_lecture_transformer.pdf).
+Transformers and Associative Memories. [Oberwolfach 2023](files/talk_ow23.pdf), [ML @ Flatiron 2023](files/talk_mlfi23.pdf), [MIT 2023](files/mit_lecture_transformer.pdf), [NTU 2024](files/talk_ntu24.pdf).
 
 Learning Single-Index Models with Shallow Networks. [ICTP 2022](files/talk_ictp22.pdf) ([video](https://www.youtube.com/watch?v=A4F6-32_n40)).
 
