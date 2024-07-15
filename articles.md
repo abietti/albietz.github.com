@@ -4,6 +4,12 @@ title: Publications
 ---
 ## Publications
 
+L. Chen, J. Bruna, A. Bietti. [How Truncating Weights Improves Reasoning in Language Models](https://arxiv.org/pdf/2406.03068). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
+
+L. Parker, F. Lanusse, S. Golkar, L. Sarra, Polymathic AI team. [AstroCLIP: A Cross-Modal Foundation Model for Galaxies](https://academic.oup.com/mnras/article/531/4/4990/7697182). *Monthly Notices of the Royal Astronomical Society*, 531(4):4990-5011, 2024. \[[arxiv](https://arxiv.org/abs/2310.03024), [code](https://github.com/PolymathicAI/AstroCLIP)\]
+
+S. Golkar, A. Bietti, M. Pettee, M. Eickenberg, Polymathic AI team. [Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task](https://arxiv.org/pdf/2406.02585). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.02585)\]
+
 V. Cabannes, B. Simsek, A. Bietti. [Learning Associative Memories with Gradient Descent](https://arxiv.org/pdf/2402.18724). In *ICML*, 2024. \[[arxiv](https://arxiv.org/abs/2402.18724)\]
 
 F. Kunstner, R. Yadav, A. Milligan, M. Schmidt, A. Bietti. [Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models](https://arxiv.org/pdf/2402.19449). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2402.19449)\]
@@ -13,6 +19,10 @@ A. Mishkin, A. Bietti, R. Gower. [Level Set Teleportation: An Optimization Persp
 V. Cabannes, E. Dohmatob, A. Bietti. [Scaling Laws for Associative Memories](https://arxiv.org/pdf/2310.02984). In *ICLR*, 2024. **Spotlight**. \[[arxiv](https://arxiv.org/abs/2310.02984)\]
 
 A. Bietti, J. Bruna, L. Pillaud-Vivien. [On Learning Gaussian Multi-index Models with Gradient Flow](https://arxiv.org/pdf/2310.19793.pdf). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2310.19793)\]
+
+M. McCabe, B. Regaldo, L. Parker, R. Ohana, M. Cranmer, Polymathic AI team. [Multiple Physics Pretraining for Physical Surrogate Models](https://arxiv.org/pdf/2310.02994). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2310.02994), [code](https://github.com/PolymathicAI/multiple_physics_pretraining)\]
+
+S. Golkar, M. Pettee, M. Eickenberg, A. Bietti, Polymathic AI team. [xVal: A Continuous Number Encoding for Large Language Models](https://arxiv.org/pdf/2310.02989). preprint, 2023. \[[arxiv](https://arxiv.org/abs/2310.02989), [code](https://github.com/PolymathicAI/xval)\]
 
 A. Bietti, V. Cabannes, D. Bouchacourt, H. Jegou, L. Bottou. [Birth of a Transformer: A Memory Viewpoint](https://arxiv.org/pdf/2306.00802). In *NeurIPS*, 2023. **Spotlight**. \[[arxiv](https://arxiv.org/abs/2306.00802), [code](https://github.com/albietz/transformer-birth)\]
 
