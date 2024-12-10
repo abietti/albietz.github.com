@@ -4,6 +4,8 @@ title: Publications
 ---
 ## Publications
 
+E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
+
 L. Chen, J. Bruna, A. Bietti. [How Truncating Weights Improves Reasoning in Language Models](https://arxiv.org/pdf/2406.03068). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
 
 S. Golkar, A. Bietti, M. Pettee, M. Eickenberg, Polymathic AI team. [Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task](https://arxiv.org/pdf/2406.02585). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.02585)\]
