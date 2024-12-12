@@ -10,7 +10,7 @@ L. Chen, J. Bruna, A. Bietti. [How Truncating Weights Improves Reasoning in Lang
 
 S. Golkar, A. Bietti, M. Pettee, M. Eickenberg, Polymathic AI team. [Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task](https://arxiv.org/pdf/2406.02585). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.02585)\]
 
-F. Kunstner, R. Yadav, A. Milligan, M. Schmidt, A. Bietti. [Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models](https://arxiv.org/pdf/2402.19449). In *NeurIPS*, 2024. **Spotlight**. \[[arxiv](https://arxiv.org/abs/2402.19449)\]
+F. Kunstner, R. Yadav, A. Milligan, M. Schmidt, A. Bietti. [Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models](https://arxiv.org/pdf/2402.19449). In *NeurIPS*, 2024. **Spotlight**. \[[arxiv](https://arxiv.org/abs/2402.19449), [code](https://github.com/fKunstner/class-imbalance-sgd-adam)\]
 
 M. McCabe, B. Regaldo, L. Parker, R. Ohana, M. Cranmer, Polymathic AI team. [Multiple Physics Pretraining for Physical Surrogate Models](https://arxiv.org/pdf/2310.02994). In *NeurIPS*, 2024. \[[arxiv](https://arxiv.org/abs/2310.02994), [code](https://github.com/PolymathicAI/multiple_physics_pretraining)\]
 
