@@ -4,9 +4,11 @@ title: Publications
 ---
 ## Publications
 
-E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
+E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). In *ICLR*, 2025. **Oral** at the NeurIPS 2024 M3L workshop. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
 
-L. Chen, J. Bruna, A. Bietti. [How Truncating Weights Improves Reasoning in Language Models](https://arxiv.org/pdf/2406.03068). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
+L. Chen, J. Bruna, A. Bietti. [Distributional Associations vs In-Context Reasoning: A Study of Feed-forward and Attention Layers](https://arxiv.org/pdf/2406.03068). In *ICLR*, 2025. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
+
+A. Mishkin, A. Bietti, R. Gower. [Level Set Teleportation: An Optimization Perspective](https://arxiv.org/pdf/2403.03362). In *AISTATS*, 2025. \[[arxiv](https://arxiv.org/abs/2403.03362)\]
 
 S. Golkar, A. Bietti, M. Pettee, M. Eickenberg, Polymathic AI team. [Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task](https://arxiv.org/pdf/2406.02585). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.02585)\]
 
@@ -17,8 +19,6 @@ M. McCabe, B. Regaldo, L. Parker, R. Ohana, M. Cranmer, Polymathic AI team. [Mul
 L. Parker, F. Lanusse, S. Golkar, L. Sarra, Polymathic AI team. [AstroCLIP: A Cross-Modal Foundation Model for Galaxies](https://academic.oup.com/mnras/article/531/4/4990/7697182). *Monthly Notices of the Royal Astronomical Society*, 531(4):4990-5011, 2024. \[[arxiv](https://arxiv.org/abs/2310.03024), [code](https://github.com/PolymathicAI/AstroCLIP)\]
 
 V. Cabannes, B. Simsek, A. Bietti. [Learning Associative Memories with Gradient Descent](https://arxiv.org/pdf/2402.18724). In *ICML*, 2024. \[[arxiv](https://arxiv.org/abs/2402.18724)\]
-
-A. Mishkin, A. Bietti, R. Gower. [Level Set Teleportation: An Optimization Perspective](https://arxiv.org/pdf/2403.03362). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2403.03362)\]
 
 V. Cabannes, E. Dohmatob, A. Bietti. [Scaling Laws for Associative Memories](https://arxiv.org/pdf/2310.02984). In *ICLR*, 2024. **Spotlight**. \[[arxiv](https://arxiv.org/abs/2310.02984)\]
 
