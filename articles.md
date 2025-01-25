@@ -6,7 +6,7 @@ title: Publications
 
 E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). In *ICLR*, 2025. **Oral** at the NeurIPS 2024 M3L workshop. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
 
-L. Chen, J. Bruna, A. Bietti. [Distributional Associations vs In-Context Reasoning: A Study of Feed-forward and Attention Layers](https://arxiv.org/pdf/2406.03068). In *ICLR*, 2025. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
+L. Chen, J. Bruna, A. Bietti. [Distributional Associations vs In-Context Reasoning: A Study of Feed-forward and Attention Layers](https://openreview.net/pdf?id=WCVMqRHWW5). In *ICLR*, 2025. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
 
 A. Mishkin, A. Bietti, R. Gower. [Level Set Teleportation: An Optimization Perspective](https://arxiv.org/pdf/2403.03362). In *AISTATS*, 2025. \[[arxiv](https://arxiv.org/abs/2403.03362)\]
 
