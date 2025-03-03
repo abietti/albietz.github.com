@@ -4,6 +4,8 @@ title: Publications
 ---
 ## Publications
 
+R. Klypa, A. Bietti, S. Grudinin. [BAnG: Bidirectional Anchored Generation for Conditional RNA Design](https://arxiv.org/pdf/2502.21274). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2502.21274)\]
+
 M. Smart, A. Bietti, A. Sengupta. [In-context denoising with one-layer transformers: connections between attention and associative memory retrieval](https://arxiv.org/pdf/2502.05164). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2502.05164)\]
 
 E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). In *ICLR*, 2025, **spotlight**. **Oral** at the NeurIPS 2024 M3L workshop. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
@@ -11,6 +13,8 @@ E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via
 L. Chen, J. Bruna, A. Bietti. [Distributional Associations vs In-Context Reasoning: A Study of Feed-forward and Attention Layers](https://openreview.net/pdf?id=WCVMqRHWW5). In *ICLR*, 2025. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
 
 A. Mishkin, A. Bietti, R. Gower. [Level Set Teleportation: An Optimization Perspective](https://arxiv.org/pdf/2403.03362). In *AISTATS*, 2025. \[[arxiv](https://arxiv.org/abs/2403.03362)\]
+
+H. Zenati, A. Bietti, M. Martin, E. Diemert, P. Gaillard, J. Mairal. [Counterfactual Learning of Stochastic Policies with Continuous Actions](https://openreview.net/pdf?id=fC4bh1PmZr). In *TMLR*, 2025. \[[arxiv](https://arxiv.org/abs/2004.11722), [code](https://github.com/criteo-research/optimization-continuous-action-crm)\]
 
 S. Golkar, A. Bietti, M. Pettee, M. Eickenberg, Polymathic AI team. [Contextual Counting: A Mechanistic Study of Transformers on a Quantitative Task](https://arxiv.org/pdf/2406.02585). preprint, 2024. \[[arxiv](https://arxiv.org/abs/2406.02585)\]
 
@@ -59,8 +63,6 @@ A. Bietti, F. Bach. [Deep Equals Shallow for ReLU Networks in Kernel Regimes](ht
 A. Bietti, A. Agarwal, J. Langford. [A Contextual Bandit Bake-off](https://jmlr.org/papers/volume22/18-863/18-863.pdf). In *Journal of Machine Learning Research (JMLR)*, 22(133):1-49, 2021. \[[arxiv](https://arxiv.org/abs/1802.04064), [hal](https://hal.inria.fr/hal-01708310), [code](https://github.com/JohnLangford/vowpal_wabbit)\]
 
 N. Keriven, A. Bietti, S. Vaiter. [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://arxiv.org/pdf/2006.01868.pdf). In *NeurIPS*, 2020. **Spotlight presentation**. \[[arxiv](https://arxiv.org/abs/2006.01868)\]
-
-H. Zenati, A. Bietti, M. Martin, E. Diemert, J. Mairal. [Counterfactual Learning of Continuous Stochastic Policies](https://arxiv.org/pdf/2004.11722.pdf). preprint, 2020. \[[arxiv](https://arxiv.org/abs/2004.11722), [code](https://github.com/criteo-research/optimization-continuous-action-crm)\]
 
 A. Bietti. [Foundations of Deep Convolutional Models through Kernel Methods](https://tel.archives-ouvertes.fr/tel-02543073/document). *PhD thesis*, Université Grenoble-Alpes, 2019. **Best PhD prize** from Université Grenoble-Alpes. \[[slides](files/phd_slides.pdf), [hal](https://hal.inria.fr/tel-02543073)\]
 
