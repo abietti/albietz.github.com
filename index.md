@@ -15,4 +15,4 @@ Before my PhD, I was a software engineer at [Quora](http://www.quora.com), worki
 
 **Email**: *{first name}* at *{last name}* dot me
 
-**Other**: [Twitter](http://twitter.com/albertobietti), [Github](http://github.com/albietz), [Google Scholar](https://scholar.google.com/citations?user=iT7Tp70AAAAJ), [Quora](http://www.quora.com/Alberto-Bietti), [LinkedIn](http://www.linkedin.com/in/alberto-bietti-3314905)
+**Other**: [Twitter](http://twitter.com/albertobietti), [Github](http://github.com/abietti), [Google Scholar](https://scholar.google.com/citations?user=iT7Tp70AAAAJ), [Quora](http://www.quora.com/Alberto-Bietti), [LinkedIn](http://www.linkedin.com/in/alberto-bietti-3314905)
