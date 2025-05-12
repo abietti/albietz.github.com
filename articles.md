@@ -6,9 +6,9 @@ title: Publications
 
 R. Klypa, A. Bietti, S. Grudinin. [BAnG: Bidirectional Anchored Generation for Conditional RNA Design](https://arxiv.org/pdf/2502.21274). In *ICML*, 2025. \[[arxiv](https://arxiv.org/abs/2502.21274)\]
 
-M. Smart, A. Bietti, A. Sengupta. [In-context denoising with one-layer transformers: connections between attention and associative memory retrieval](https://arxiv.org/pdf/2502.05164). In *ICML*, 2025, **spotlight**. \[[arxiv](https://arxiv.org/abs/2502.05164)\]
+M. Smart, A. Bietti, A. Sengupta. [In-context denoising with one-layer transformers: connections between attention and associative memory retrieval](https://arxiv.org/pdf/2502.05164). In *ICML*, 2025. **Spotlight**. Oral at the ICLR 2025 NFAM workshop. \[[arxiv](https://arxiv.org/abs/2502.05164)\]
 
-E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). In *ICLR*, 2025, **spotlight**. **Oral** at the NeurIPS 2024 M3L workshop. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
+E. Nichani, J. Lee, A. Bietti. [Understanding Factual Recall in Transformers via Associative Memories](https://arxiv.org/pdf/2412.06538). In *ICLR*, 2025. **Spotlight**. Oral at the NeurIPS 2024 M3L workshop. \[[arxiv](https://arxiv.org/abs/2412.06538)\]
 
 L. Chen, J. Bruna, A. Bietti. [Distributional Associations vs In-Context Reasoning: A Study of Feed-forward and Attention Layers](https://openreview.net/pdf?id=WCVMqRHWW5). In *ICLR*, 2025. \[[arxiv](https://arxiv.org/abs/2406.03068)\]
 
