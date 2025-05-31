@@ -4,6 +4,8 @@ title: Publications
 ---
 ## Publications
 
+Z. Wang, E. Nichani, A. Bietti, A. Damian, D. Hsu, J. Lee, D. Wu. [Learning Compositional Functions with Transformers from Easy-to-Hard Data](https://arxiv.org/pdf/2505.23683). In *COLT*, 2025. \[[arxiv](https://arxiv.org/abs/2505.23683)\]
+
 R. Klypa, A. Bietti, S. Grudinin. [BAnG: Bidirectional Anchored Generation for Conditional RNA Design](https://arxiv.org/pdf/2502.21274). In *ICML*, 2025. \[[arxiv](https://arxiv.org/abs/2502.21274)\]
 
 M. Smart, A. Bietti, A. Sengupta. [In-context denoising with one-layer transformers: connections between attention and associative memory retrieval](https://arxiv.org/pdf/2502.05164). In *ICML*, 2025. **Spotlight**. Oral at the ICLR 2025 NFAM workshop. \[[arxiv](https://arxiv.org/abs/2502.05164)\]
