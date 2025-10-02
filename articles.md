@@ -4,6 +4,9 @@ title: Publications
 ---
 ## Publications
 
+H. Zhu, T. Guo, S. Mei, S. Russell, N. Ghosh, A. Bietti, J. Jiao. [GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments
+](https://arxiv.org/pdf/2509.21998). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2509.21998)\]
+
 Z. Wang, E. Nichani, A. Bietti, A. Damian, D. Hsu, J. Lee, D. Wu. [Learning Compositional Functions with Transformers from Easy-to-Hard Data](https://arxiv.org/pdf/2505.23683). In *COLT*, 2025. \[[arxiv](https://arxiv.org/abs/2505.23683)\]
 
 R. Klypa, A. Bietti, S. Grudinin. [BAnG: Bidirectional Anchored Generation for Conditional RNA Design](https://arxiv.org/pdf/2502.21274). In *ICML*, 2025. \[[arxiv](https://arxiv.org/abs/2502.21274)\]
