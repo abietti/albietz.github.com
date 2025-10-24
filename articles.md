@@ -4,6 +4,10 @@ title: Publications
 ---
 ## Publications
 
+S. Ravfogel, G. Yehudai, T. Linzen, J. Bruna, A. Bietti. [Emergence of Linear Truth Encodings in Language Models](https://arxiv.org/pdf/2510.15804). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2510.15804)\]
+
+L. Parker, F. Lanusse, J. Shen, O. Liu, Polymathic AI team. [AION-1: Omnimodal Foundation Model for Astronomical Sciences](https://arxiv.org/pdf/2510.17960). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2510.17960), [code](https://github.com/PolymathicAI/AION)\]
+
 H. Zhu, T. Guo, S. Mei, S. Russell, N. Ghosh, A. Bietti, J. Jiao. [GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments
 ](https://arxiv.org/pdf/2509.21998). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2509.21998)\]
 
