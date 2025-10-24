@@ -4,7 +4,9 @@ title: Talks
 ---
 ## Selected Talks
 
-Associative memories as a building block in Transformers. [Simons Institute 2024](files/talk_simons24.pdf) ([video](https://www.youtube.com/watch?v=ncAhx70jTIc)), [EPFL 2024](files/talk_epfl24.pdf), [Oberwolfach 2025](files/talk_ow25.pdf), [Inria 2025](files/talk_sierra25.pdf).
+Associative memories as a building block in Transformers. [Simons Institute 2024](files/talk_simons24.pdf) ([video](https://www.youtube.com/watch?v=ncAhx70jTIc)), [EPFL 2024](files/talk_epfl24.pdf), [Oberwolfach 2025](files/talk_ow25.pdf), [Inria 2025](files/talk_sierra25.pdf), [CUNY 2025](files/talk_cuny25.pdf).
+
+Some memory mechanisms in Transformers and their emergence. [Flatiron FMS 2025](files/talk_flatironfms25.pdf), [MemVis @ ICCV 2025](files/talk_iccv25.pdf).
 
 Transformers and Associative Memories. [Oberwolfach 2023](files/talk_ow23.pdf), [ML @ Flatiron 2023](files/talk_mlfi23.pdf), [MIT 2023](files/mit_lecture_transformer.pdf), [NTU 2024](files/talk_ntu24.pdf), [Rome 2024](files/talk_rome24.pdf), [CMO-BIRS 2024](files/talk_oaxaca24.pdf).
 
