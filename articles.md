@@ -6,7 +6,11 @@ title: Publications
 
 S. Ravfogel, G. Yehudai, T. Linzen, J. Bruna, A. Bietti. [Emergence of Linear Truth Encodings in Language Models](https://arxiv.org/pdf/2510.15804). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2510.15804)\]
 
+R. Kawata, Y. Song, A. Bietti, N. Nishikawa, T. Suzuki, S. Vaiter, D. Wu. [From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers](https://openreview.net/pdf?id=n0QvMU2kON). In *NeurIPS*, 2025. **Spotlight**. \[[openreview](https://openreview.net/forum?id=n0QvMU2kON)\]
+
 L. Parker, F. Lanusse, J. Shen, O. Liu, Polymathic AI team. [AION-1: Omnimodal Foundation Model for Astronomical Sciences](https://arxiv.org/pdf/2510.17960). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2510.17960), [code](https://github.com/PolymathicAI/AION)\]
+
+R. Morel, F. Ramunno, J. Shen, Polymathic AI team. [Predicting partially observable dynamical systems via diffusion models with a multiscale inference scheme](https://arxiv.org/pdf/2511.19390). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2511.19390)\]
 
 H. Zhu, T. Guo, S. Mei, S. Russell, N. Ghosh, A. Bietti, J. Jiao. [GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments
 ](https://arxiv.org/pdf/2509.21998). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2509.21998)\]
