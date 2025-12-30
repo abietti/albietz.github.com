@@ -6,7 +6,7 @@ title: Publications
 
 N. Ghosh, D. Wu, A. Bietti. [Understanding the Mechanisms of Fast Hyperparameter Transfer](https://arxiv.org/pdf/2512.22768). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2512.22768)\]
 
-R. Fear, P. Mukhopadhyay, M. McCabe, A. Bietti, M. Cranmer. [Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model](https://arxiv.org/abs/2511.20798). preprint, 2025. \[[arxiv](https://arxiv.org/pdf/2511.20798)\]
+R. Fear, P. Mukhopadhyay, M. McCabe, A. Bietti, M. Cranmer. [Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model](https://arxiv.org/pdf/2511.20798). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2511.20798)\]
 
 S. Ravfogel, G. Yehudai, T. Linzen, J. Bruna, A. Bietti. [Emergence of Linear Truth Encodings in Language Models](https://arxiv.org/pdf/2510.15804). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2510.15804)\]
 
