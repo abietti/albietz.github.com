@@ -4,7 +4,9 @@ title: Publications
 ---
 ## Publications
 
-N. Ghosh, D. Wu, A. Bietti. [Understanding the Mechanisms of Fast Hyperparameter Transfer](https://arxiv.org/pdf/2512.22768). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2512.22768)\]
+N. Ghosh, D. Wu, A. Bietti. [Understanding the Mechanisms of Fast Hyperparameter Transfer](https://arxiv.org/pdf/2512.22768). In *ICLR*, 2026. \[[arxiv](https://arxiv.org/abs/2512.22768), [openreview](https://openreview.net/forum?id=Q7mLKxQ8qk)\]
+
+M. Vural, A. Bietti, M. Soltanolkotabi, D. Wu. [Learning to Recall with Transformers Beyond Orthogonal Embeddings](https://openreview.net/pdf?id=CfFj68C9Cn). In *ICLR*, 2026. \[[openreview](https://openreview.net/forum?id=CfFj68C9Cn)\]
 
 R. Fear, P. Mukhopadhyay, M. McCabe, A. Bietti, M. Cranmer. [Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model](https://arxiv.org/pdf/2511.20798). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2511.20798), [code](https://github.com/DJ-Fear/walrus_steering)\]
 
