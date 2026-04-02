@@ -4,6 +4,8 @@ title: Publications
 ---
 ## Publications
 
+J. Kim, E. Nichani, D. Wu, A. Bietti, J. D. Lee. [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](https://arxiv.org/pdf/2603.26554). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2603.26554)\]
+
 N. Ghosh, D. Wu, A. Bietti. [Understanding the Mechanisms of Fast Hyperparameter Transfer](https://arxiv.org/pdf/2512.22768). In *ICLR*, 2026. \[[arxiv](https://arxiv.org/abs/2512.22768), [openreview](https://openreview.net/forum?id=Q7mLKxQ8qk)\]
 
 M. Vural, A. Bietti, M. Soltanolkotabi, D. Wu. [Learning to Recall with Transformers Beyond Orthogonal Embeddings](https://arxiv.org/pdf/2603.15923). In *ICLR*, 2026. \[[arxiv](https://arxiv.org/abs/2603.15923), [openreview](https://openreview.net/forum?id=CfFj68C9Cn)\]
