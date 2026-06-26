@@ -4,17 +4,23 @@ title: Publications
 ---
 ## Publications
 
+S. Ravfogel, G. Yehudai, J. Bruna, A. Bietti. [Geometric Factual Recall in Transformers](https://arxiv.org/pdf/2605.12426). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2605.12426)\]
+
+S Golkar, Polymathic AI team. [MIMIC: A Generative Multimodal Foundation Model for Biomolecules](https://arxiv.org/pdf/2604.24506). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2604.24506)\]
+
 J. Kim, E. Nichani, D. Wu, A. Bietti, J. D. Lee. [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](https://arxiv.org/pdf/2603.26554). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2603.26554)\]
 
 B. Vasudeva, P. Deora, A. Bietti, V. Sharan, C. Thrampoulidis. [Understanding Contextual Recall in Transformers: How Finetuning Enables In-Context Reasoning over Pretraining Knowledge](https://arxiv.org/pdf/2603.20969). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2603.20969)\]
+
+J. Teneggi, S.M.B. Turzo, T. Marwah, A. Bietti, P. D. Renfrew, V. K. Mulligan, S. Golkar. [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/pdf/2603.15952). In *ICML*, 2026. \[[arxiv](https://arxiv.org/abs/2603.15952), [code](https://github.com/PolymathicAI/agent-rosetta)\]
+
+M. McCabe, P. Mukhopadhyay, T. Marwah, Polymathic AI team. [Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/pdf/2511.15684). In *ICML*, 2026. \[[arxiv](https://arxiv.org/abs/2511.15684), [code](https://github.com/PolymathicAI/walrus), [huggingface](https://huggingface.co/polymathic-ai/walrus)\]
 
 N. Ghosh, D. Wu, A. Bietti. [Understanding the Mechanisms of Fast Hyperparameter Transfer](https://arxiv.org/pdf/2512.22768). In *ICLR*, 2026. \[[arxiv](https://arxiv.org/abs/2512.22768), [openreview](https://openreview.net/forum?id=Q7mLKxQ8qk)\]
 
 M. Vural, A. Bietti, M. Soltanolkotabi, D. Wu. [Learning to Recall with Transformers Beyond Orthogonal Embeddings](https://arxiv.org/pdf/2603.15923). In *ICLR*, 2026. \[[arxiv](https://arxiv.org/abs/2603.15923), [openreview](https://openreview.net/forum?id=CfFj68C9Cn)\]
 
 R. Fear, P. Mukhopadhyay, M. McCabe, A. Bietti, M. Cranmer. [Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model](https://arxiv.org/pdf/2511.20798). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2511.20798), [code](https://github.com/DJ-Fear/walrus_steering)\]
-
-M. McCabe, P. Mukhopadhyay, T. Marwah, Polymathic AI team. [Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/pdf/2511.15684). preprint, 2025. \[[arxiv](https://arxiv.org/abs/2511.15684), [code](https://github.com/PolymathicAI/walrus), [huggingface](https://huggingface.co/polymathic-ai/walrus)\]
 
 S. Ravfogel, G. Yehudai, T. Linzen, J. Bruna, A. Bietti. [Emergence of Linear Truth Encodings in Language Models](https://arxiv.org/pdf/2510.15804). In *NeurIPS*, 2025. \[[arxiv](https://arxiv.org/abs/2510.15804)\]
 
