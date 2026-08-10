@@ -4,6 +4,8 @@ title: Talks
 ---
 ## Selected Talks
 
+Learning in Transformers with Associative Memories. [Tor Vergata 2026](), [JSM 2026](files/talk_jsm26.pdf).
+
 Associative memories as a building block in Transformers. [Simons Institute 2024](files/talk_simons24.pdf) ([video](https://www.youtube.com/watch?v=ncAhx70jTIc)), [EPFL 2024](files/talk_epfl24.pdf), [Oberwolfach 2025](files/talk_ow25.pdf), [Inria 2025](files/talk_sierra25.pdf), [Cargèse 2025](files/talk_cargese25.pdf), [CUNY 2025](files/talk_cuny25.pdf).
 
 Some memory mechanisms in Transformers and their emergence. [Flatiron FMS 2025](files/talk_flatironfms25.pdf), [MemVis @ ICCV 2025](files/talk_iccv25.pdf).
