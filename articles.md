@@ -4,11 +4,13 @@ title: Publications
 ---
 ## Publications
 
-S. Ravfogel, G. Yehudai, J. Bruna, A. Bietti. [Geometric Factual Recall in Transformers](https://arxiv.org/pdf/2605.12426). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2605.12426)\]
+S. Ravfogel, G. Yehudai, J. Bruna, A. Bietti. [Geometric Factual Recall in Transformers](https://arxiv.org/pdf/2605.12426). In *NeurIPS*, 2026. \[[arxiv](https://arxiv.org/abs/2605.12426)\]
+
+B. Exoo, A. Bietti, J. Sous. [Assign and Add: A Mechanistic Study of Compositional Arithmetic](https://arxiv.org/pdf/2605.31497). In *NeurIPS*, 2026. \[[arxiv](https://arxiv.org/abs/2605.31497), [openreview](https://openreview.net/forum?id=oLhhT567lt)\]
+
+J. Kim, E. Nichani, D. Wu, A. Bietti, J. D. Lee. [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](https://arxiv.org/pdf/2603.26554). In *NeurIPS*, 2026. \[[arxiv](https://arxiv.org/abs/2603.26554)\]
 
 S Golkar, Polymathic AI team. [MIMIC: A Generative Multimodal Foundation Model for Biomolecules](https://arxiv.org/pdf/2604.24506). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2604.24506)\]
-
-J. Kim, E. Nichani, D. Wu, A. Bietti, J. D. Lee. [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](https://arxiv.org/pdf/2603.26554). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2603.26554)\]
 
 B. Vasudeva, P. Deora, A. Bietti, V. Sharan, C. Thrampoulidis. [Understanding Contextual Recall in Transformers: How Finetuning Enables In-Context Reasoning over Pretraining Knowledge](https://arxiv.org/pdf/2603.20969). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2603.20969)\]
 
