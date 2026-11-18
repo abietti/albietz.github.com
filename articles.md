@@ -10,6 +10,8 @@ B. Exoo, A. Bietti, J. Sous. [Assign and Add: A Mechanistic Study of Composition
 
 J. Kim, E. Nichani, D. Wu, A. Bietti, J. D. Lee. [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](https://arxiv.org/pdf/2603.26554). In *NeurIPS*, 2026. \[[arxiv](https://arxiv.org/abs/2603.26554)\]
 
+R. Zhang, A. Bietti, W. Gurnee, A. Favero, M. Cranmer. [A Mechanistic Interpretability Study of an Astronomy Foundation Model](https://arxiv.org/pdf/2611.15653). In *NeurIPS*, 2026. \[[arxiv](https://arxiv.org/abs/2611.15653)\]
+
 S Golkar, Polymathic AI team. [MIMIC: A Generative Multimodal Foundation Model for Biomolecules](https://arxiv.org/pdf/2604.24506). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2604.24506)\]
 
 B. Vasudeva, P. Deora, A. Bietti, V. Sharan, C. Thrampoulidis. [Understanding Contextual Recall in Transformers: How Finetuning Enables In-Context Reasoning over Pretraining Knowledge](https://arxiv.org/pdf/2603.20969). preprint, 2026. \[[arxiv](https://arxiv.org/abs/2603.20969)\]
